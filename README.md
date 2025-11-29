@@ -34,9 +34,7 @@
 <table>
   <tr>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwZzFrdnQ5MDQ5NDR0ZW03OGpnd2pmNGttOXZodnlyZmk4c3NodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Kod yozish 1"></td>
-    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRsbjFyZGs4bGx6dXAwY21hc29zdGkwY21iM3B5dWI2eXBpeTEzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="200" alt="Kod yozish 2"></td>
-    <td><img
-scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmYmppMGZwYWJueHZvd2dmazl3Ymp3d29pYWd0OWJjM2tteTc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif"  alt="Kod yozish 3"></td>          
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRsbjFyZGs4bGx6dXAwY21hc29zdGkwY21iM3B5dWI2eXBpeTEzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="200" alt="Kod yozish 2"></td>        
   </tr>
 </table>
 
@@ -48,27 +46,33 @@ scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmYmppMGZwYWJueHZvd2dma
 
 
 
----
 ## 🚀 Loyihalarim
 
-### [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot)
-Zamonaviy AI yordamida rasm chizadigan Telegram boti.  
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-![Rassom AI Bot](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9paTA0aDExMGczZGc2MDJnbzZxZThiZmFvYWpnY2lweDJvdmVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCeXvYeTLKlmU/giphy.gif)
+<div style="text-align: center;">
+  <a href="https://t.me/Rassom_Chizadigan_AI_bot">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9paTA0aDExMGczZGc2MDJnbzZxZThiZmFvYWpnY2lweDJvdmVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCeXvYeTLKlmU/giphy.gif" width="200" />
+  </a>
+  <p>Rassom AI Bot<br>Zamonaviy AI yordamida rasm chizadigan Telegram boti.</p>
+</div>
 
----
+<div style="text-align: center;">
+  <a href="https://github.com/Robotech203/portfolio-web">
+    <img src="https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg" width="200" />
+  </a>
+  <p>Portfolio Web App<br>Shaxsiy portfolio web-sayti. HTML, CSS va React bilan yaratilgan.</p>
+</div>
 
-### [Portfolio Web App](https://github.com/Robotech203/portfolio-web)
-Shaxsiy portfolio web-sayti. HTML, CSS va React bilan yaratilgan.  
+<div style="text-align: center;">
+  <a href="https://t.me/Uz_ChatGPT_AI_bot">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif" width="200" />
+  </a>
+  <p>Telegram ChatGPT Bot<br>Foydalanuvchi bilan interaktiv suhbatlar.</p>
+</div>
 
-![Portfolio Preview](https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg)
+</div>
 
----
-
-### [Telegram ChatGPT Bot](https://t.me/Uz_ChatGPT_AI_bot)
-Telegram orqali ishlaydigan ChatGPT bot. Foydalanuvchi bilan interaktiv suhbatlar.  
-
-![ChatGPT Bot](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)
 
 
 ---
