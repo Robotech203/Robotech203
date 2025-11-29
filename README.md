@@ -36,7 +36,7 @@
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwZzFrdnQ5MDQ5NDR0ZW03OGpnd2pmNGttOXZodnlyZmk4c3NodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Kod yozish 1"></td>
     <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRsbjFyZGs4bGx6dXAwY21hc29zdGkwY21iM3B5dWI2eXBpeTEzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="200" alt="Kod yozish 2"></td>
     <td><img
-scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmYmppMGZwYWJueHZvd2dmazl3Ymp3d29pYWd0OWJjM2tteTc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="200" alt="Kod yozish 3"></td>          
+scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmYmppMGZwYWJueHZvd2dmazl3Ymp3d29pYWd0OWJjM2tteTc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif"  alt="Kod yozish 3"></td>          
   </tr>
 </table>
 
