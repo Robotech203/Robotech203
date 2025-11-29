@@ -49,35 +49,27 @@ scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmYmppMGZwYWJueHZvd2dma
 
 
 ---
+## 🚀 Loyihalarim
 
-## 📂 Loyiha portfoliom 
-## 📂 Loyiha portfoliom
+### [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot)
+Zamonaviy AI yordamida rasm chizadigan Telegram boti.  
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://t.me/Rassom_Chizadigan_AI_bot">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif" width="150" alt="Rassom AI Bot">
-        <br>Rassom AI Bot
-      </a>
-      <br>Zamonaviy Rassom bot
-    </td>
-    <td align="center">
-      <a href="https://github.com/Robotech203/portfolio-web">
-        <img src="https://raw.githubusercontent.com/Robotech203/portfolio-web/main/assets/portfolio_web.png" width="150" alt="Portfolio Web App">
-        <br>Portfolio Web App
-      </a>
-      <br>Shaxsiy portfolio web-sayti
-    </td>
-    <td align="center">
-      <a href="https://t.me/Uz_ChatGPT_AI_bot">
-        <img src="https://raw.githubusercontent.com/Robotech203/portfolio-web/main/assets/chatgpt_bot.png" width="150" alt="Telegram ChatGPT Bot">
-        <br>Telegram ChatGPT Bot
-      </a>
-      <br>Python + Telegram bot
-    </td>
-  </tr>
-</table>
+![Rassom AI Bot](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)
+
+---
+
+### [Portfolio Web App](https://github.com/Robotech203/portfolio-web)
+Shaxsiy portfolio web-sayti. HTML, CSS va React bilan yaratilgan.  
+
+![Portfolio Preview](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)
+
+---
+
+### [Telegram ChatGPT Bot](https://t.me/Uz_ChatGPT_AI_bot)
+Telegram orqali ishlaydigan ChatGPT bot. Foydalanuvchi bilan interaktiv suhbatlar.  
+
+![ChatGPT Bot](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)
+
 
 ---
 
