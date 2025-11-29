@@ -43,35 +43,36 @@
 ## 📊 Men biladigan tillar 
 ![O'zbek](https://camo.githubusercontent.com/14d82665a9ad8800d1fb31c282370618ae102d8cb8c9f0922a1862a9b39376cf/68747470733a2f2f666c616763646e2e636f6d2f33327832342f757a2e706e67)O'zbek
 ![Ingliz](https://camo.githubusercontent.com/9bbaaf9cb00bb4ced0f978dd83f2674e9c6ee3cc7f0108a80f8b3233a021d4e7/68747470733a2f2f666c616763646e2e636f6d2f33327832342f67622e706e67)Ingliz
-
+---
 
 
 ## 🚀 Loyihalarim
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-<div style="text-align: center;">
-  <a href="https://t.me/Rassom_Chizadigan_AI_bot">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9paTA0aDExMGczZGc2MDJnbzZxZThiZmFvYWpnY2lweDJvdmVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCeXvYeTLKlmU/giphy.gif" width="200" />
-  </a>
-  <p>Rassom AI Bot<br>Zamonaviy AI yordamida rasm chizadigan Telegram boti.</p>
+  <div style="text-align: center;">
+    <a href="https://t.me/Rassom_Chizadigan_AI_bot">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9paTA0aDExMGczZGc2MDJnbzZxZThiZmFvYWpnY2lweDJvdmVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCeXvYeTLKlmU/giphy.gif" width="200"/>
+    </a>
+    <p>Rassom AI Bot<br>Zamonaviy AI yordamida rasm chizadigan Telegram boti.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/Robotech203/portfolio-web">
+      <img src="https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg" width="200"/>
+    </a>
+    <p>Portfolio Web App<br>Shaxsiy portfolio web-sayti. HTML, CSS va React bilan yaratilgan.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://t.me/Uz_ChatGPT_AI_bot">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif" width="200"/>
+    </a>
+    <p>Telegram ChatGPT Bot<br>Foydalanuvchi bilan interaktiv suhbatlar.</p>
+  </div>
+
 </div>
 
-<div style="text-align: center;">
-  <a href="https://github.com/Robotech203/portfolio-web">
-    <img src="https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg" width="200" />
-  </a>
-  <p>Portfolio Web App<br>Shaxsiy portfolio web-sayti. HTML, CSS va React bilan yaratilgan.</p>
-</div>
-
-<div style="text-align: center;">
-  <a href="https://t.me/Uz_ChatGPT_AI_bot">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif" width="200" />
-  </a>
-  <p>Telegram ChatGPT Bot<br>Foydalanuvchi bilan interaktiv suhbatlar.</p>
-</div>
-
-</div>
 
 
 
