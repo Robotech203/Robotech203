@@ -82,7 +82,7 @@
 - 🌐 GitHub: [Robotech203](https://github.com/Robotech203)  
 - 💬 Telegram: [@doniyorbek_coder](https://t.me/doniyorbek_coder)  
 - ✉️ Email: coderdoniyorbek@gmail.com  
-- 🌐 LinkedIn: [Doniyorbek](https://www.linkedin.com/in/doniyorbek/)  
+- 🌐 LinkedIn: [Doniyorbek](https://www.linkedin.com/in/doniyorbek-normurodov-694a16376/)  
 - 🌐 Portfolio: [Portfolio Web App](https://github.com/Robotech203/portfolio-web)  
 
 ---
