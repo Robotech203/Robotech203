@@ -40,16 +40,11 @@
 
 
 ---
+## 📊 Men biladigan tillar ![Doniyorbek GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robotech203&show_icons=true&theme=radical) 
+.[O'zbek](https://camo.githubusercontent.com/14d82665a9ad8800d1fb31c282370618ae102d8cb8c9f0922a1862a9b39376cf/68747470733a2f2f666c616763646e2e636f6d2f33327832342f757a2e706e67)
+.[Ingliz](https://camo.githubusercontent.com/9bbaaf9cb00bb4ced0f978dd83f2674e9c6ee3cc7f0108a80f8b3233a021d4e7/68747470733a2f2f666c616763646e2e636f6d2f33327832342f67622e706e67)
 
-## 📊 Men biladigan tillar
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Robotech203&show_icons=true&theme=radical" width="250" alt="GitHub Stats"></td>
-    <td><img src="https://camo.githubusercontent.com/14d82665a9ad8800d1fb31c282370618ae102d8cb8c9f0922a1862a9b39376cf/68747470733a2f2f666c616763646e2e636f6d/33327832342f757a2e706e67" width="80" alt="O'zbek"></td>
-    <td><img src="https://camo.githubusercontent.com/9bbaaf9cb00bb4ced0f978dd83f2674e9c6ee3cc7f0108a80f8b3233a021d4e7/68747470733a2f2f666c616763646e2e636f6d/33327832342f67622e706e67" width="80" alt="Ingliz"></td>
-  </tr>
-</table>
 
 ---
 
