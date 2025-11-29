@@ -36,9 +36,10 @@
 
 ---
 
-## 📊 GitHub Stats & Badges
+## 📊 Tillar
 ![Doniyorbek GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robotech203&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotech203&layout=compact&theme=radical)  
+![Uzbek](<img width="32" height="24" alt="image" src="https://github.com/user-attachments/assets/ca2248e5-b088-4f6c-bc58-d4fc86c46805" />
+)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Robotech203.Robotech203)  
 
 ---
