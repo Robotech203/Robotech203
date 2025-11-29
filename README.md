@@ -54,14 +54,14 @@ scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmYmppMGZwYWJueHZvd2dma
 ### [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot)
 Zamonaviy AI yordamida rasm chizadigan Telegram boti.  
 
-![Rassom AI Bot](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)
+![Rassom AI Bot](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9paTA0aDExMGczZGc2MDJnbzZxZThiZmFvYWpnY2lweDJvdmVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCeXvYeTLKlmU/giphy.gif)
 
 ---
 
 ### [Portfolio Web App](https://github.com/Robotech203/portfolio-web)
 Shaxsiy portfolio web-sayti. HTML, CSS va React bilan yaratilgan.  
 
-![Portfolio Preview](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJsZHkyeXJvb212bzZqaGR5NjRkbHZuNGwxNWttd2JvMjJmZWQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)
+![Portfolio Preview](https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg)
 
 ---
 
