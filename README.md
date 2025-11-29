@@ -31,16 +31,20 @@
 ---
 
 ## 💻 “Kod - bu fikringni dunyoga ko'rsatish usuli.”!
-![Kod yozish](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwZzFrdnQ5MDQ5NDR0ZW03OGpnd2pmNGttOXZodnlyZmk4c3NodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+<table>
+  <tr>
+    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwZzFrdnQ5MDQ5NDR0ZW03OGpnd2pmNGttOXZodnlyZmk4c3NodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Kod yozish 1"></td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRsbjFyZGs4bGx6dXAwY21hc29zdGkwY21iM3B5dWI2eXBpeTEzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="200" alt="Kod yozish 2"></td>
+  </tr>
+</table>
 
 
 ---
 
-## 📊 Tillar
+## 📊 Men biladigan tillar
 ![Doniyorbek GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robotech203&show_icons=true&theme=radical)  
-![Uzbek](<img width="32" height="24" alt="image" src="https://github.com/user-attachments/assets/ca2248e5-b088-4f6c-bc58-d4fc86c46805" />
-)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Robotech203.Robotech203)  
+![O'zbek](https://camo.githubusercontent.com/14d82665a9ad8800d1fb31c282370618ae102d8cb8c9f0922a1862a9b39376cf/68747470733a2f2f666c616763646e2e636f6d2f33327832342f757a2e706e67)  
+![Ingliz](https://camo.githubusercontent.com/9bbaaf9cb00bb4ced0f978dd83f2674e9c6ee3cc7f0108a80f8b3233a021d4e7/68747470733a2f2f666c616763646e2e636f6d2f33327832342f67622e706e67)  
 
 ---
 
