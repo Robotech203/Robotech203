@@ -17,7 +17,6 @@
 
 ## 🏆 Sertifikatlar
 - 🎓 **Python Backend Development** – Zomin IT Park, 2025
-- ![Rasm](https://uzcorp-certificates.uz/certificate/801/) 
 - 📄 [PDF nusxasi](https://uzcorp-certificates.uz/certificate/801/)
 
 ---
