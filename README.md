@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 “Kod - bu fikringni dunyoga ko'rsatish usuli.”!
+## 💻 “Kod - bu fikringni dunyoga ko'rsatish usuli !”
 <table>
   <tr>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwZzFrdnQ5MDQ5NDR0ZW03OGpnd2pmNGttOXZodnlyZmk4c3NodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Kod yozish 1"></td>
@@ -49,9 +49,33 @@
 ---
 
 ## 📂 Loyiha portfoliom
-- [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot) – Zamonaviy Rassom bot  
-- [Portfolio Web App](https://github.com/Robotech203/portfolio-web) – Shaxsiy portfolio veb-sayti  
-- [Telegram ChatGPT Bot](https://t.me/Uz_ChatGPT_AI_bot) – Python + Telegram bot  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/Rassom_Chizadigan_AI_bot">
+        <img src="https://raw.githubusercontent.com/Robotech203/portfolio-web/main/assets/rassom_ai_bot.png" width="150" alt="Rassom AI Bot">
+        <br>Rassom AI Bot
+      </a>
+      <br>Zamonaviy Rassom bot
+    </td>
+    <td align="center">
+      <a href="https://github.com/Robotech203/portfolio-web">
+        <img src="https://raw.githubusercontent.com/Robotech203/portfolio-web/main/assets/portfolio_web.png" width="150" alt="Portfolio Web App">
+        <br>Portfolio Web App
+      </a>
+      <br>Shaxsiy portfolio veb-sayti
+    </td>
+    <td align="center">
+      <a href="https://t.me/Uz_ChatGPT_AI_bot">
+        <img src="https://raw.githubusercontent.com/Robotech203/portfolio-web/main/assets/chatgpt_bot.png" width="150" alt="Telegram ChatGPT Bot">
+        <br>Telegram ChatGPT Bot
+      </a>
+      <br>Python + Telegram bot
+    </td>
+  </tr>
+</table>
+
 
 ---
 
